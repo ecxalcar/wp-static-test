@@ -1,0 +1,1 @@
+# wp-static-test
