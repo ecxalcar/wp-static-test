@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for WP to Static page	</title>
-	<atom:link href="https://wp-static-e.netlify.app/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://wp-static-e.netlify.app/</link>
+	Comments on: Hello world!	</title>
+	<atom:link href="https://wp-static-e.netlify.app/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wp-static-e.netlify.app/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Thu, 27 Jul 2023 19:04:02 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.3</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>https://wp-static-e.netlify.app/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
